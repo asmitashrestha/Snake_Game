@@ -1,0 +1,14 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.board{
+  background-color: rgb(136, 226, 0);
+  height: 40rem;
+  width: 50rem;
+  position: relative;
+  right: 100px;
+}
